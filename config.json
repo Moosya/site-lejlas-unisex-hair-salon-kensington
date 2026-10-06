@@ -1,0 +1,27 @@
+{
+  "shopName": "Lejla's Unisex Hair Salon",
+  "tagline": "Unisex haircuts and color on Church Avenue, Kensington",
+  "phone": "(347) 873-7662",
+  "address": "517 Church Ave, Brooklyn, NY 11218",
+  "hours": "Open daily · most days 9 AM – 7 PM",
+  "photoUrl": "hero.jpg",
+  "services": [
+    {
+      "name": "Haircuts",
+      "description": "Cuts for women, men, and kids."
+    },
+    {
+      "name": "Color & styling",
+      "description": "Color, highlights, blowouts, and styling."
+    },
+    {
+      "name": "Walk-ins & appointments",
+      "description": "Call or stop by to book a time."
+    }
+  ],
+  "email": "troupe.javelin-7w@icloud.com",
+  "demoId": "lejlas-unisex-hair-salon-kensington",
+  "ownerName": "us",
+  "ownerPhone": "(908) 286-8650",
+  "ownerEmail": "troupe.javelin-7w@icloud.com"
+}
